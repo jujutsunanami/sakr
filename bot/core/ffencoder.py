@@ -13,7 +13,7 @@ from .func_utils import mediainfo, convertBytes, convertTime, sendMessage, editM
 from .reporter import rep
 
 ffargs = {
-    'HDRIP': Var.FFCODE_HDRIP,
+    'Hdrip': Var.FFCODE_Hdrip,
     '1080': Var.FFCODE_1080,
 }
 
